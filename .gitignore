@@ -165,4 +165,5 @@ cython_debug/
 a.py
 day01
 day02
+day03
 .idea
